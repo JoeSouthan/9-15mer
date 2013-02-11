@@ -1,0 +1,6 @@
+Number of matches to expect:
+---Please be aware that numbers may differ to the output of mhc.pl due to random chance.---
+Generated 100 9mers.
+MHC1 X1A: 8 
+MHC1 X2A: 10 
+MHC1 X2B: 3 

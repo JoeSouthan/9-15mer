@@ -1,0 +1,6 @@
+Number of matches to expect:
+---Please be aware that numbers may differ to the output of mhc.pl due to random chance.---
+Generated 100 15mers.
+MHC2 XX100: 5 
+MHC2 XX112: 8 
+MHC2 XX200: 3 
